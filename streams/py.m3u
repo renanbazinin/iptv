@@ -117,3 +117,7 @@ https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8
 https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_alta/master.m3u8
 #EXTINF:-1 tvg-id="SNT.py@SD",SNT (1080p)
 https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="SURTVItapua.py@SD",SUR TV Itapua
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8
+#EXTINF:-1 tvg-id="TVCamara.py@SD",TV Camara (1080p)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8

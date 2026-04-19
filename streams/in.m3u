@@ -1033,10 +1033,6 @@ http://ptuf.ridsys.in/riptv/live/KALAIGNAR_ISAI_ARUVI/index.m3u8
 http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8
 #EXTINF:-1 tvg-id="ColorsTamil.in@SD",Colors Tamil (576p)
 http://ajkiptv.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1Tamil.in@HD",Star Sports 1 Tamil HD (1080p)
-http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL_HD/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1Tamil.in@SD",Star Sports 1 Tamil (576p)
-http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL/index.m3u8
 #EXTINF:-1 tvg-id="ZeeThirai.in@HD",Zee Thirai HD (1080p)
 http://ajkiptv.ridsys.in/riptv/live/ZEE_THIRAI_HD/index.m3u8
 #EXTINF:-1 tvg-id="ZeeThirai.in@SD",Zee Thirai (576p)
@@ -1269,3 +1265,11 @@ https://cdn-2.pishow.tv/live/269/master.m3u8
 http://103.213.31.109:90/B4UMusic/playlist.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in@HD",Star Sports 1 HD (1080p)
 http://ptuf.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen4.in@Telugu",Sony Sports Ten 4 Telugu (1080p)
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204%20HD.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen4.in@Tamil",Sony Sports Ten 4 (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204.m3u8
+#EXTINF:-1 tvg-id="DharsanTV.in@SD",Dharsan TV (720p)
+https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8
+#EXTINF:-1 tvg-id="HebronTV.in@SD",Hebron TV (1080p)
+https://account20.livebox.co.in/charleshls/live.m3u8
